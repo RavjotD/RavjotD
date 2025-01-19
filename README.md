@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 Hi, I’m Ravjot. A software engineer specializing in full-stack development, while in the pursuit of completing my Bachelors of Technology (BTech) at Kwantlen Polytechnic University. <br>👀 I’m interested in coding, gaming, and sports. In my spare time, I like to learn about the latest technologies in regards to programming, as well as enjoy playing sports and video games from time to time.<br>📚 I’m currently learning about the latest technologies in software development methodologies, which translates to my proactivity in exploring agile practices and continuous integration to enhance my skills in delivering innovative solutions.<br>📫 How to reach me: LinkedIn works best, or send me a message on my website!
+👋 Hello! I'm a dedicated Full Stack Software Engineer with 2 years of experience creating web applications from start to finish. My passion for both front-end and back-end development drives me to build seamless and efficient user experiences.
+
+I specialize in full stack development, allowing me to bridge the gap between diverse technologies and deliver cohesive solutions. My certifications solidify my proficiency and commitment to continuous learning in this dynamic field.
+
+From designing efficient code to rigorously testing it, I follow the Software Development Life Cycle (SDLC) to ensure the creation of reliable web applications. I take pride in the integrity of my work by ensuring each stage of development contributes to the end product's success.
+
+I'm particularly enthusiastic about integrating AI technologies into my projects to streamline workflows and enhance functionality. When I'm not coding, you can find me exploring the latest trends in AI and discovering new ways to innovate.
 
 
 # 💻 Tech Stack:

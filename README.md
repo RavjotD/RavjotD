@@ -35,8 +35,11 @@ My goal is engineering in the Cloud space!
 **Languages & Scripting**
 Python · JavaScript · TypeScript · Bash · HTML · CSS
 
-**Frameworks & Tools**
+**Frameworks & Backend**
 React · Next.js · Express · Node.js · Django · REST APIs
+
+**Frontend**
+Next.js(React) · TypeScript · Tailwind CSS 
 
 **Databases**
 MySQL · PostgreSQL · Amazon DynamoDB · MongoDB
@@ -44,26 +47,13 @@ MySQL · PostgreSQL · Amazon DynamoDB · MongoDB
 **Cloud — In Progress**
 AWS (actively studying SAA-C03) · Infrastructure as Code (learning Terraform)
 
-**Currently Building**
-Cloud Resume Challenge on AWS — S3 · CloudFront · Lambda ·
-DynamoDB · API Gateway · Terraform · GitHub Actions
-
 **Cloud & Infrastructure**
 AWS (S3, EC2, IAM, VPC) · Azure (Active Directory, M365) ·
 DNS · VPN · Firewalls · PowerShell automation
 
-**Languages & Scripting**
-Python · Java · JavaScript · TypeScript · Bash
-
-**Backend & Databases**
-REST APIs · MySQL · PostgreSQL · MongoDB · Express.js
-
-**Frontend**
-Next.js(React) · TypeScript · Tailwind CSS 
 
 **Currently Building**
-AWS Solutions Architect Associate (SAA-C03) ·
-Cloud Resume Challenge — S3 · CloudFront · Lambda ·
+Cloud Resume Challenge on AWS — S3 · CloudFront · Lambda ·
 DynamoDB · API Gateway · Terraform · GitHub Actions
 
 ---
@@ -132,7 +122,6 @@ time by 40%. Maintained 99% uptime SLA compliance.
 - Pass AWS SAA-C03 (June 2026)
 - Complete Cloud Resume Challenge on AWS then Azure
 - Build a documented multi-cloud portfolio
-- Land a cloud engineering or solutions architect role
 
 ---
 

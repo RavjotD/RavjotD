@@ -1,7 +1,7 @@
 <h1 align="center">Ravjot Duhra</h1>
 
 <p align="center">
-  Cloud & Software Engineer &nbsp;·&nbsp; Vancouver, BC, Canada<br/>
+  Technical Engineer &nbsp;·&nbsp; Vancouver, BC, Canada<br/>
   Transitioning into Cloud Infrastructure and Solutions Architecture
 </p>
 
@@ -26,7 +26,7 @@ and three AWS credentials. I'm currently pursuing the AWS Solutions
 Architect Associate (SAA-C03) and building hands-on cloud projects
 to back it up.
 
-My goal is working in the Cloud space!
+My goal is engineering in the Cloud space!
 
 ---
 

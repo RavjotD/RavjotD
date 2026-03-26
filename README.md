@@ -125,13 +125,15 @@ time by 40%. Maintained 99% uptime SLA compliance.
 
 ---
 
-##  What I'm Currenlty Building Toward
+##  What I'm Currenlty Building 
 *AWS*
 **Cloud Resume Challenge — AWS**
 Full serverless stack: S3 · CloudFront · Lambda ·
 DynamoDB · API Gateway · Terraform · GitHub Actions
+
 → Live: https://d19mfjmr0dtnqm.cloudfront.net
 
+---
 
 ## 📊 GitHub Stats
 
